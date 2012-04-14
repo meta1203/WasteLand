@@ -1,0 +1,6 @@
+author: meta1203
+database: false
+main: me.meta1203.plugins.wasteland.Wasteland
+name: WasteLand
+load: startup
+version: '1.0'
